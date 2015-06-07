@@ -52,7 +52,7 @@ this file. If not, first:
 - inside that directory, clone `ceylon-dist` by typing:
 
 <!-- lang: bash -->
-    $ git clone git@github.com:ceylon/ceylon-dist.git
+    $ git clone https://github.com/ceylon/ceylon-dist.git
 
 Now you have everything you need continue with the following steps.
 
