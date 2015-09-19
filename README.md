@@ -1,5 +1,7 @@
 # Ceylon distribution
 
+[![Join the chat at https://gitter.im/ceylon/ceylon-dist](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ceylon/ceylon-dist?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the 1.1 _"Pif Gadget"_ release of the Ceylon 
 command line tools (version 1.1.1). This is a production version of 
 the platform.
