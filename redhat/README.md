@@ -6,7 +6,7 @@ First we're going to make sure we've got all the core development tools installe
 
  - `sudo yum groupinstall "Development Tools"`
 
-Plus some usefull tools for making RPMs:
+Plus some useful tools for making RPMs:
 
  - `sudo yum install rpmdevtools`
 
